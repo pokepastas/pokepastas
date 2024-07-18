@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="300" src="https://64.media.tumblr.com/e36dcbb66e5c03155c263604c8494d3e/3d18b70679c17666-a1/s250x400/89e94871bb6583a816247446235c787c4b94e9f4.pnj">
+  <img width="400" height="350" src="https://64.media.tumblr.com/e36dcbb66e5c03155c263604c8494d3e/3d18b70679c17666-a1/s250x400/89e94871bb6583a816247446235c787c4b94e9f4.pnj">
 </p>
 <p align="center">
 $\text{\color{#5fa1e3}{starfarer }\color{white}{system ☆}}$
